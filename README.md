@@ -8,7 +8,7 @@ I'm an Embedded Systems Engineer who graduated from Polytechnic of Turin 🎓
 - 🗿 I use Arch, btw: <br>
 I mainly drive an Arch Linux system and thoroughly enjoy using open-source software for the greater freedom it offers. I enjoy exploring new technologies and tools to improve my system and enhance its daily usage.
 
-- 🇯🇵 Learning Japanese: <br>
+- 🇯🇵 Japanese learner: <br>
 I've always wanted to learn this language, since I really like Japanese culture. Currently, I'm at an N5 skill level and hope to further improve during the next months 💪.
 
 - 🎮 Gaming addict: <br>
