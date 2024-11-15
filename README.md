@@ -2,7 +2,7 @@
 I'm an Embedded Systems Engineer who graduated from Polytechnic of Turin 🎓
 
 📌 [My LinkedIn profile](https://www.linkedin.com/in/matteo-isoldi) <br>
-📌 [Read my thesis abstract](/Abstract-Thesis.md)
+📌 [Read my thesis abstract](/Abstract-Thesis.md) or [directly take a look at the entire work](https://webthesis.biblio.polito.it/33198/)
 
 ## 💬 About me :
 - 🗿 I use Arch, btw: <br>
